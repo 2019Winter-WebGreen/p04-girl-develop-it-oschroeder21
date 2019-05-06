@@ -1,0 +1,30 @@
+/*
+* Olivia Schroeder
+* Due Date
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {background-color:antiquewhite;}
+
+header {text-align: center; background-color: rgb(244, 100, 108);}
+
+h1, h2 {text-decoration: underline; font-family:cursive;}
+
+p, ul {font-family:sans-serif;}
+
+.font1 {font-family:serif;}
+
+a {color:rebeccapurple;}
+
+a:hover, a:focus, a:active {color:fuchsia; font-size:150%;}
+
+.images {float: right; height:210px; width:410px;}
+
